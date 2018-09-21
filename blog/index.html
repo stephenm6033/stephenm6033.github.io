@@ -2,7 +2,10 @@
 layout: default
 title:stephen's blog
 ---
+	<h1>blog post</h1>
+	<ul class="posts">
 
-	<h1>hi, my name is stephen</h1>
-<h2>list of post</h2>
-
+	  {% for post in site.posts %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>

@@ -7,11 +7,6 @@ layout: feed
 	<title>stephen martone's Blog</title>
 
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://hankquinlan.github.io/blog</id>
-	<author>
-		<name>Hank Quinlan</name>
-		<email>hankquinlanhub@gmail.com</email>
-	</author>
 
 	{% for post in site.posts %}
 		<entry>

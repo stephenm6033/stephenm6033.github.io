@@ -13,7 +13,7 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 a {
-    text-decoration: none;
+    text-decoration: bold;
     color: #00cccc;
 }
 a:hover {
@@ -30,7 +30,7 @@ p {
 }
 footer {
     border-top: 1px solid #33cc33;
-    font-size: .8em;
+    font-size: 1.5em;
 }
 
 ul.posts { 

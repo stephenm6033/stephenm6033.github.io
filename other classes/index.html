@@ -1,0 +1,17 @@
+---
+layout: default
+title:other classes
+---
+<h1>other classes</h1>
+	<p>this site contains other classes</p>
+  <h2>Geometry</h2>
+  <p>this section will be designated to math info. expect it in the near future</p>
+  <h3>Goverment</h3>
+  <p>this section is all about our goverment and different types.</p>
+  <h4>expect more classes to be put up soon</h4>
+  <ul class="posts">
+
+	  {% for post in site.posts %}
+	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+	</ul>

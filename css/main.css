@@ -23,11 +23,15 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
+      background-image: url("google_group_icon_400x400.png");
+     background-repeat: no-repeat;
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
      color: #00b386;
 }
 p {
+      background-image: url("google_group_icon_400x400.png");
+     background-repeat: no-repeat;
     font-size: 1.5em;
     line-height: 1.4em;
     color: #2eb82e;

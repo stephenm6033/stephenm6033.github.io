@@ -1,5 +1,6 @@
 body {
      background-image: url("google_group_icon_400x400.png");
+     background-repeat: no-repeat;
     margin: 60px auto;
     width: 70%;
 }

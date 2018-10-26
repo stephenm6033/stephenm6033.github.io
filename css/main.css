@@ -3,6 +3,7 @@ body {
      background-repeat: no-repeat;
     margin: 60px auto;
     width: 70%;
+     background-color: green;
 }
 
 nav ul, footer ul {

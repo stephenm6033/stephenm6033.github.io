@@ -1,4 +1,5 @@
 ---
+layout: default
 layout: post
 title: "weekly reflection 09"
 date: 2018-11-16

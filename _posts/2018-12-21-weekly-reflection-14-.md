@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Weekly Reflection #14"
+title: "Weekly Reflection 14"
 date: 2018-12-21
 ---
 <h1> Weekly Reflection #14 Final Flag Project</h1>
@@ -33,6 +33,7 @@ date: 2018-12-21
 
 -   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
 
+Hi
 <!--- Delete this comment and add your writing -->
 
 

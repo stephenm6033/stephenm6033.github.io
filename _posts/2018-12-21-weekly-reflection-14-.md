@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Flag Project - Final Submission"
+title: "Weekly Reflection #14"
 date: 2018-12-21
 ---
 <h1> Weekly Reflection #14 Final Flag Project</h1>

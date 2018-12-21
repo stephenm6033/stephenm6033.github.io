@@ -5,7 +5,7 @@ date: 2018-12-21
 ---
 <h1> Weekly Reflection #14 Final Flag Project</h1>
 <p> The country flag that I had to do was Cuba. </p>
-![FinalFlagProject.png](/images/FinalFlagProject.png)
+![FinalFlagProject](FinalFlagProject.png)
 
 
 

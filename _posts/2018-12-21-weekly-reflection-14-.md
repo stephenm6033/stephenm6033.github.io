@@ -5,7 +5,7 @@ date: 2018-12-21
 ---
 <h1> Weekly Reflection #14 Final Flag Project</h1>
 <p> The country flag that I had to do was Cuba. </p>
-![FinalFlagProject](FinalFlagProject.png)
+![FinalFlagProject](/imager/FinalFlagProject.png)
 
 
 
@@ -18,7 +18,7 @@ date: 2018-12-21
 (define height 200)
 (define Length 400)
 (define stripe 50)
-; (define base ...)
+; (define base ...)FinalFlagProject.png
 ; (define stripe-base ...)
 ```
 <p> This is just some definitions that will help me make my code shorter and easier to make.</p>

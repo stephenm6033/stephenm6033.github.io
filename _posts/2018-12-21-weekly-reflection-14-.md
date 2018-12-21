@@ -4,101 +4,39 @@ title: "Weekly Reflection 14"
 date: 2018-12-21
 ---
 <h1> Weekly Reflection #14 Final Flag Project</h1>
-## Flag of _insert your country_ by _insert your name_
-
-## Describe your program
-
--   What country did you design for? _then delete this instruction_
--   What grade do you expect? _then delete this instruction_
-
-<!--- Delete this comment and add your writing -->
-## Flag of _insert your country_ by _insert your name_
-
-## Describe your program
-
--   What country did you design for? _then delete this instruction_
--   What grade do you expect? _then delete this instruction_
-
-<!--- Delete this comment and add your writing -->
-
-## Current output
-
--   Insert an image that your program currently produces. _then delete this instruction_
-
+<p> The country flag that I had to do was Cuba. </p>
 * * *
-![Flag](/images/final-flag.png)
-* * *
-
-## Describe your process.
-
--   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
-
-Hi
-<!--- Delete this comment and add your writing -->
+![FinalFlagProject.png](/image/FinalFlagProject.png)
 
 
-## Explain your code.
 
--   Choose a significant part of your program (15 lines max) and paste it below. Do not insert your entire program here. _then delete this instruction_
--   Explain each argument in the code section. _then delete this instruction_
--   Tell us how it functions independently and within the whole program _then delete this instruction_
 
-* * *
-
-```
-Insert 10-15 line code section here _then delete this instruction_
-```
-
-* * *
-
--   Explain the code you posted by telling us about each argument.
--   Then tell us how your code section fits into the whole.
- 
-<!--- Delete this comment and add your writing -->
-
+<p> This code together creates a flag that is amazing and looks accurate </p>
 
 ## Program code
 
 ```
-Insert entire program here _then delete this instruction_
+(define height 200)
+(define Length 400)
+(define stripe 50)
+; (define base ...)
+; (define stripe-base ...)
 ```
-## Current output
-
--   Insert an image that your program currently produces. _then delete this instruction_
-
-* * *
-![Flag](/images/final-flag.png)
-* * *
-
-## Describe your process.
-
--   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
-
-<!--- Delete this comment and add your writing -->
-
-
-## Explain your code.
-
--   Choose a significant part of your program (15 lines max) and paste it below. Do not insert your entire program here. _then delete this instruction_
--   Explain each argument in the code section. _then delete this instruction_
--   Tell us how it functions independently and within the whole program _then delete this instruction_
-
-* * *
-
+<p> This is just some definitions that will help me make my code shorter and easier to make.</p>
 ```
-Insert 10-15 line code section here _then delete this instruction_
+(put-image(rotate 270 (put-image (rotate 90(star stripe "solid" "white"))  100 60  (triangle height "solid" "Crimson")) 80 100 (put-image (rectangle 500 40 "solid" "white") 150 50 (put-image (rectI had to do angle 500 40 "solid" "white") 150 140 rectangle Length height "solid" "DarkBlue"))))
 ```
+<p> this is just the code for the shapes that will fit together after you put "put-image" in the begining of the code. </p>
 
-* * *
-
--   Explain the code you posted by telling us about each argument.
--   Then tell us how your code section fits into the whole.
- 
-<!--- Delete this comment and add your writing -->
-
-
-## Program code
-
+<h2> The Enitre code </h2>
+```(define height 200)
+* * *(define Length 400)
+(define stripe 50)
+; (define base ...)
+; (define stripe-base ...)
+(put-image(rotate 270 (put-image (rotate 90(star stripe "solid" "white"))  100 60  (triangle height "solid" "Crimson")) 80 100 (put-image (rectangle 500 40 "solid" "white") 150 50 (put-image (rectangle 500 40 "solid" "white") 150 140 rectangle Length height "solid" "DarkBlue"))))                                               
 ```
-Insert entire program here _then delete this instruction_
-```
+ <p> I expect a practitioner for my flag project that you see above</p>
+
+
+

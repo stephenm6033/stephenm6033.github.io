@@ -29,7 +29,8 @@ date: 2018-12-21
 <p> this is just the code for the shapes that will fit together after you put "put-image" in the begining of the code. </p>
 
 <h2> The Enitre code </h2>
-```(define height 200)
+```
+(define height 200)
 (define Length 400)
 (define stripe 50)
 ; (define base ...)

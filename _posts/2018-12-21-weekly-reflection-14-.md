@@ -18,7 +18,7 @@ date: 2018-12-21
 (define height 200)
 (define Length 400)
 (define stripe 50)
-; (define base ...)FinalFlagProject.png
+; (define base ...)
 ; (define stripe-base ...)
 ```
 <p> This is just some definitions that will help me make my code shorter and easier to make.</p>

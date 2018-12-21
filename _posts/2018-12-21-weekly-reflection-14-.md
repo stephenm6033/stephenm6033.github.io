@@ -5,7 +5,7 @@ date: 2018-12-21
 ---
 <h1> Weekly Reflection #14 Final Flag Project</h1>
 <p> The country flag that I had to do was Cuba. </p>
-![FinalFlagProject](/imager/FinalFlagProject.png)
+![FinalFlagProject](/images/FinalFlagProject.png)
 
 
 
@@ -31,7 +31,7 @@ date: 2018-12-21
 <h2> The Enitre code </h2>
 
 ```
-(define height 200)
+(define height 200)r
 (define Length 400)
 (define stripe 50)
 ; (define base ...)
